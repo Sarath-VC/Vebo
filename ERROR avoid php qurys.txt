@@ -1,0 +1,1 @@
+error_reporting(E_ALL ^ E_DEPRECATED); /*put it in login.php to avoid deprication due to mysql this will help in avoid mysqli_   */
